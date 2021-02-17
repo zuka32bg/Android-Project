@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">APOTEKA</string>
+    <string-array name="lista_lekova">
+        <item>Espumisal </item>
+        <item> Diklofen</item>
+        <item> Rapidol S</item>
+        <item> Panadol</item>
+        <item> Nimulid </item>
+        <item> Brufen</item>
+        <item> Xyzal</item>
+    </string-array>
+    <string-array name="opis_lekova">
+        <item>za lečenje funkcionalnih poremećaja creva.</item>
+        <item> smanjuju bol i zapaljenje.</item>
+        <item>snižavaju temperaturu,smanjuju bol.</item>
+        <item> efikasno otklanja glavobolju i migrenu.</item>
+        <item>Kod akutnog bola i primarne dismenoreje.</item>
+        <item>Prilikom bola i zapaljenja.</item>
+        <item> Xyzal je antialergijski lek za sistemsku primenu.</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+        <string name="onama">
+            <p><br> </br>Prisutni smo na preko 200 lokacija širom naše zemlje i trudićemo se da nas bude što više .Apoteka ZU3496 je najveći lanac apoteka u Srbiji.
+    Ono po čemu se ZU3496 izdvaja na tržištu jeste konstantan rad sa zaposlenim farmaceutima na usavršavanju i upoznavanju najnovijih dostignuća medicine i farmakologije,
+        sa ciljem da se pacijentima ponudi najbolji mogući savet.</p>
+        </string>
+
+
+</resources>

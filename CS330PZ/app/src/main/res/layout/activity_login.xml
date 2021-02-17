@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0BB990">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="250dp"
+        android:id="@+id/txtusername"
+        android:hint="Unesite username"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtpassword"
+        android:hint="Unesite password"
+        android:inputType="textPassword"
+        android:width="250dp"
+        android:layout_below="@+id/txtusername"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnlogin"
+        android:text="LOGIN"
+        android:layout_below="@+id/txtpassword"
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnreg"
+        android:text="REGISTRACIJA"
+        android:layout_marginLeft="100dp"
+        android:layout_below="@+id/txtpassword"
+
+        />
+
+
+</RelativeLayout>
